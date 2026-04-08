@@ -1,0 +1,25 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1843_7919)">
+<g filter="url(#filter0_f_1843_7919)">
+<circle cx="382" cy="540" r="281" fill="#F6F3FF"/>
+</g>
+<g filter="url(#filter1_f_1843_7919)">
+<circle cx="1725.5" cy="178.5" r="167.5" fill="#E3F9FF"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_1843_7919" x="-299" y="-141" width="1362" height="1362" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="200" result="effect1_foregroundBlur_1843_7919"/>
+</filter>
+<filter id="filter1_f_1843_7919" x="1158" y="-389" width="1135" height="1135" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="200" result="effect1_foregroundBlur_1843_7919"/>
+</filter>
+<clipPath id="clip0_1843_7919">
+<rect width="1920" height="1080" fill="white"/>
+</clipPath>
+</defs>
+</svg>
