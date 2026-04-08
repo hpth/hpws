@@ -15,10 +15,10 @@ payment：项目名称
 cashier/crypto/BSC.svg： 文件在项目中的位置
 
 3.对应GitHub自身cdn图片地址, 中间有main单词
-https://raw.githubusercontent.com/hpth/hpws/main/cashier/crypto/BSC.svg
+https://raw.githubusercontent.com/hpth/hpws/main/dashboard.svg
 
 4.使用三方cdn对GitHub进行加速地址， 优点：速度快, 文件类型: content-type响应准确, 完美适配前端
-https://cdn.jsdelivr.net/gh/hpth/hpws/cashier/crypto/BSC.svg
+https://cdn.jsdelivr.net/gh/hpth/hpws/dashboard.svg
 
 gh： github
 hpth：项目组名称
