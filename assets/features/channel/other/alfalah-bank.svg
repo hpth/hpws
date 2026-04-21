@@ -1,16 +1,1 @@
-<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="0.5" y="0.5" width="79" height="79" rx="7.5" fill="white"/>
-<rect x="0.5" y="0.5" width="79" height="79" rx="7.5" stroke="#EEEEEE"/>
-<path d="M20 59.4372L38.6796 20.9018C38.9642 20.2969 39.7825 20.2257 40.1739 20.7595L58.1774 45.1688C62.5538 51.0754 58.3198 59.4372 50.9903 59.4727C48.0727 59.4727 45.333 58.0495 43.6608 55.6655L40.5297 51.2177C39.4623 49.7233 37.4342 49.2607 35.8331 50.1858L20.0356 59.4372H20Z" fill="url(#paint0_linear_2497_22896)"/>
-<path d="M58.1774 45.2043L40.1739 20.7595C39.7825 20.2257 38.9642 20.2969 38.6796 20.9018L20 59.4372L43.2694 45.8092C44.8705 44.8841 47.2188 45.3111 48.2862 46.8411L51.4172 51.2889C53.0895 53.6729 55.758 55.0962 58.7111 55.0962C60.4546 52.1784 60.5613 48.3356 58.213 45.2043H58.1774Z" fill="url(#paint1_linear_2497_22896)"/>
-<defs>
-<linearGradient id="paint0_linear_2497_22896" x1="47.112" y1="39.5468" x2="38.0746" y2="42.7133" gradientUnits="userSpaceOnUse">
-<stop stop-color="#EE3123"/>
-<stop offset="1" stop-color="#9E1B0D"/>
-</linearGradient>
-<linearGradient id="paint1_linear_2497_22896" x1="29.9624" y1="40.0094" x2="58.8185" y2="54.7035" gradientUnits="userSpaceOnUse">
-<stop stop-color="#9E1B0D"/>
-<stop offset="0.4" stop-color="#EE3123"/>
-</linearGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" fill="none" viewBox="0 0 80 80"><rect width="79" height="79" x=".5" y=".5" fill="#fff" rx="7.5"/><rect width="79" height="79" x=".5" y=".5" stroke="#eee" rx="7.5"/><path fill="url(#a)" d="m20 59.437 18.68-38.535a.87.87 0 0 1 1.494-.143l18.003 24.41c4.377 5.906.143 14.268-7.187 14.304a8.96 8.96 0 0 1-7.33-3.807l-3.13-4.448c-1.068-1.495-3.096-1.957-4.697-1.032l-15.797 9.251z"/><path fill="url(#b)" d="M58.177 45.204 40.174 20.76a.87.87 0 0 0-1.494.142L20 59.437 43.27 45.81c1.6-.925 3.949-.498 5.016 1.032l3.131 4.448c1.672 2.384 4.341 3.807 7.294 3.807 1.744-2.918 1.85-6.76-.498-9.892z"/><defs><linearGradient id="a" x1="47.112" x2="38.075" y1="39.547" y2="42.713" gradientUnits="userSpaceOnUse"><stop stop-color="#ee3123"/><stop offset="1" stop-color="#9e1b0d"/></linearGradient><linearGradient id="b" x1="29.962" x2="58.819" y1="40.009" y2="54.703" gradientUnits="userSpaceOnUse"><stop stop-color="#9e1b0d"/><stop offset=".4" stop-color="#ee3123"/></linearGradient></defs></svg>
